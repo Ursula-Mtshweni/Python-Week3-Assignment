@@ -22,5 +22,5 @@ This script helps you figure out how much you'll *actually* pay after a discount
 
 ---
 
-## 📦 Files Included
+
 
